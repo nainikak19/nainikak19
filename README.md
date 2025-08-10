@@ -5,6 +5,7 @@ I'm a passionate **Java Backend Developer** and an aspiring **AWS & DevOps Engin
 From mastering **Core & Advanced Java** (JDBC, Transactions, Batch Processing) to architecting robust applications with **Spring Boot**, **Spring Security**, **JWT**, and **MySQL**, I bring backend systems to life with clean code and real-world logic.
 
 ## 🧑‍💻 About Me:
+<img align="right" alt="AboutMeGithubImage" width="300" src=assets/AboutMeGithubImg.png>
 
 - 🚀 Aspiring AWS & DevOps Engineer and Java Backend Developer.
 - 💻 Currently building full-stack-ready Spring Boot backend systems using Java 17, JWT, Spring Security, BCrypt, MySQL, and Lombok.
